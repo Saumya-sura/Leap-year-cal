@@ -1,16 +1,17 @@
-# leapyear
+# leapyear Calulator for GDSC Mpstme Task 
 
-A new Flutter project.
+I made this app using flutter framework 
+there are 3 screens 
+1) Splash screen, 2)Date picker Screen, 3)Leap year or not also which week of the year screen
 
-## Getting Started
+The images of the app:
 
-This project is a starting point for a Flutter application.
+![home](https://github.com/user-attachments/assets/130a5e84-0802-4cfa-ba7e-a54cceebb51f)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Datepicker](https://github.com/user-attachments/assets/0be1e13e-ff54-4a27-9681-c21bf409cf58)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Ouput](https://github.com/user-attachments/assets/830cc445-f928-4c15-8f99-43c8c350a0f8)
+
+
+
